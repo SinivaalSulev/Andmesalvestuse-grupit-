@@ -1,5 +1,6 @@
 ![ceph_slide_pic](https://github.com/user-attachments/assets/37d71548-4761-4f95-a60b-6d8b08b7a288)
 
+<img width="583" alt="Pilt" src="https://github.com/SinivaalSulev/Andmesalvestuse-grupit-/blob/main/Pilt.png" />
 
 © Rookie
 
