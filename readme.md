@@ -14,7 +14,7 @@ Ubuntu paigalduse käiguse lõime partitsioonid (80GB for OP SYS, 1.8TB unformat
 ### Kontrollisime OS ühilduvust Ceph dokumentatsioonist 
 https://docs.ceph.com/en/reef/start/os-recommendations/
 ### Serverite 192.168.184.207, 192.168.184.208, 192.168.184.209 ettevalmistus CEPH paigalduseks
-1. Võrguühenduse confimine /etc/netplan/00-installer-config.yaml (Staatiline IP, nimiserver) 
+1. Nimeserverite confimine /etc/netplan/00-installer-config.yaml
 2. OpenSSH serveri paigaldus 
 3. Root user ettevalmistus (passwd, PermitRootLogin)
 4. Teenuste paigaldamine (Docker, LVM2) ja timedatectl status sync check
