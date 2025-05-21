@@ -1,6 +1,4 @@
-![ceph_slide_pic](https://github.com/user-attachments/assets/37d71548-4761-4f95-a60b-6d8b08b7a288)
-
-<img width="583" alt="Pilt" src="https://github.com/SinivaalSulev/Andmesalvestuse-grupit-/blob/main/Pilt.png" />
+<img width="583" alt="Pilt" src="" />
 
 © Rookie
 
@@ -116,7 +114,7 @@ ceph osd tree
 
 # Ligipääsud
 
-<img width="583" alt="Pilt" src="https://github.com/user-attachments/assets/5edbee0e-811e-479a-a86e-ad6bfdd8d2f7" />
+<img width="583" alt="Pilt" src="https://github.com/SinivaalSulev/Andmesalvestuse-grupit-/blob/main/Pilt.png" />
 
 Läbivalt on kasutatud kasutajatunnustena: student, student1234. Töökeskkonnas kasutaksime paroolihaldurit (Keepass, Secret server jne)
 
