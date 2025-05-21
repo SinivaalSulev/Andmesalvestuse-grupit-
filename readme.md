@@ -39,7 +39,7 @@ cephadm bootstrap --mon-ip 192.168.184.209
 Ceph Dashboard is now available at:
             URL: https://192.168.184.209:8443/
             User: admin
-            Password: (keepass)
+            Password: student1234
 ```
 ### Paigalda ceph common ja lisa clusterisse server 1, server 2
 ```
