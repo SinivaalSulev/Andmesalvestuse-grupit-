@@ -1,4 +1,4 @@
-<img width="583" alt="Pilt" src="" />
+<img width="583" alt="Pilt" src="https://github.com/SinivaalSulev/Andmesalvestuse-grupit-/blob/main/ceph_slide_pic.PNG" />
 
 © Rookie
 
